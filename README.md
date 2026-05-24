@@ -9,7 +9,7 @@ Abolfazl Afshin <sup>1</sup>, Soodeh Asgari <sup>2</sup>, and Ali Behnood <sup>1
 
 <sup>1</sup> Department of Civil Engineering, University of Mississippi, Oxford, MS 38677, USA
 
-<sup>1</sup> Department of Computer and Information Science, University of Mississippi, Oxford, MS 38677, USA
+<sup>2</sup> Department of Computer and Information Science, University of Mississippi, Oxford, MS 38677, USA
 
 <sup>*</sup> Corresponding Author
 
