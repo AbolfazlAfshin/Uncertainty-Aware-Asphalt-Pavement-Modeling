@@ -25,4 +25,4 @@ This code develops machine learning models for predicting asphalt pavement rough
 
 ## Data
 
-The processed dataset is not included in this repository. The dataset may be made available from the corresponding author upon request.
+The dataset is not included in this repository. Data are available from the corresponding author upon request.
