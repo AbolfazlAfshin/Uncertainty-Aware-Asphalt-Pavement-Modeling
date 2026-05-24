@@ -5,13 +5,13 @@ This repository contains the Python notebook used for the manuscript:
 
 ## Authors
 
-Abolfazl Afshin<sup>1</sup>, Soodeh Asgari2, and Ali Behnood1*
+Abolfazl Afshin<sup>1</sup>, Soodeh Asgari<sup>2</sup>, and Ali Behnood<sup>1</sup> <sup>*</sup>
 
 <sup>1</sup> Department of Civil Engineering, University of Mississippi, Oxford, MS 38677, USA
 
-2 Department of Computer and Information Science, University of Mississippi, Oxford, MS 38677, USA
+<sup>1</sup> Department of Computer and Information Science, University of Mississippi, Oxford, MS 38677, USA
 
-* Corresponding Author
+<sup>*</sup> Corresponding Author
 
 ## Description
 
