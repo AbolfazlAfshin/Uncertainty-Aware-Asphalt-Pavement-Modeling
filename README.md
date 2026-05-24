@@ -8,7 +8,9 @@ This repository contains the Python notebook used for the manuscript:
 Abolfazl Afshin1, Soodeh Asgari2, and Ali Behnood1*
 
 1 Department of Civil Engineering, University of Mississippi, Oxford, MS 38677, USA
+
 2 Department of Computer and Information Science, University of Mississippi, Oxford, MS 38677, USA
+
 * Corresponding Author
 
 ## Description
