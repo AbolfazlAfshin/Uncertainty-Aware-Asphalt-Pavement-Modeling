@@ -1,7 +1,7 @@
 # Uncertainty-Aware Prediction of Asphalt Pavement Roughness
 This repository contains the Python notebook used for the manuscript:
 
-**Uncertainty-Aware Prediction of Asphalt Pavement Roughness Using Bayesian Neural Networks and Gaussian Process Regression**
+**Uncertainty-Aware Prediction of Asphalt Pavement Roughness Using Probabilistic Machine Learning**
 
 ## Authors
 
